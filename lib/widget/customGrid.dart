@@ -5,7 +5,7 @@ import 'package:lh/widget/util/style.dart';
 import 'package:nb_utils/nb_utils.dart';
 
 class CustomGrid extends StatelessWidget {
-  const CustomGrid({
+   CustomGrid( {
     super.key,
     this.rate,
     this.img,
